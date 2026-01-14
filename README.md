@@ -2,6 +2,8 @@
 
 A Claude Code plugin providing TypeScript/JavaScript language server support using Microsoft's native Go-based TypeScript compiler (tsgo), delivering ~10x faster type checking and code intelligence.
 
+![tsgo-lsp in Claude Code plugin marketplace](Claude%20Code%20Plugin%20tsgo-lsp.png)
+
 ## Quick Install
 
 ```bash
